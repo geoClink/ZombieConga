@@ -1,0 +1,6 @@
+Products/
+DerivedData/
+.local-backups/
+*.xcuserstate
+xcuserdata/
+.DS_Store
